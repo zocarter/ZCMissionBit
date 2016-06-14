@@ -1,0 +1,17 @@
+body{
+    background-color: cornsilk;
+}
+
+p{ 
+    color: black;
+        }
+p{ 
+ font-style: normal;
+    }
+p{
+    font-family:inherit;
+}
+p{ 
+    font-size: 25px;
+}
+
